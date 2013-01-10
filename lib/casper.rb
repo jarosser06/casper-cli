@@ -1,0 +1,5 @@
+require_relative 'base'
+require_relative 'common'
+require_relative 'computer'
+require_relative 'jss'
+require_relative 'policy'
